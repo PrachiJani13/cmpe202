@@ -3,63 +3,63 @@
 public class Main {
 
         public static void main(String[] args) {
-        System.out.println("\n-----Testing aQuarterGumballMachine");
+        System.out.println("singleQuarterGumballMachine Test");
         
-        GumballMachine aQuarterGumballMachine = 
-        new aQuarterGumballMachine(5);
+        GumballMachine singleQuarterGumballMachine = 
+        new singleQuarterGumballMachine(5);
 
-        System.out.println(aQuarterGumballMachine);
+        System.out.println(singleQuarterGumballMachine);
 
-        aQuarterGumballMachine.insertQuarter( 25 );
-        aQuarterGumballMachine.turnCrank();
+        singleQuarterGumballMachine.insertQuarter( 25 );
+        singleQuarterGumballMachine.turnCrank();
 
-        System.out.println(aQuarterGumballMachine);
+        System.out.println(singleQuarterGumballMachine);
 
-        aQuarterGumballMachine.insertQuarter( 25 );
-        aQuarterGumballMachine.turnCrank();
-        aQuarterGumballMachine.insertQuarter( 25 );
-        aQuarterGumballMachine.turnCrank();
-        aQuarterGumballMachine.insertQuarter( 10 );
-        aQuarterGumballMachine.turnCrank();
-        aQuarterGumballMachine.insertQuarter( 25 );
-        aQuarterGumballMachine.turnCrank();
+        singleQuarterGumballMachine.insertQuarter( 25 );
+        singleQuarterGumballMachine.turnCrank();
+        singleQuarterGumballMachine.insertQuarter( 25 );
+        singleQuarterGumballMachine.turnCrank();
+        singleQuarterGumballMachine.insertQuarter( 10 );
+        singleQuarterGumballMachine.turnCrank();
+        singleQuarterGumballMachine.insertQuarter( 25 );
+        singleQuarterGumballMachine.turnCrank();
 
-        System.out.println(aQuarterGumballMachine);
+        System.out.println(singleQuarterGumballMachine);
         
-        aQuarterGumballMachine.insertQuarter( 25 );
-        aQuarterGumballMachine.turnCrank();
-        aQuarterGumballMachine.insertQuarter( 25 );
-        aQuarterGumballMachine.turnCrank();
+        singleQuarterGumballMachine.insertQuarter( 25 );
+        singleQuarterGumballMachine.turnCrank();
+        singleQuarterGumballMachine.insertQuarter( 25 );
+        singleQuarterGumballMachine.turnCrank();
         
-        System.out.println("\n-----Testing twoQuarterGumballMachine");
+        System.out.println("doubleQuarterGumballMachine Test");
         
-        GumballMachine twoQuarterGumballMachine = 
-        new twoQuarterGumballMachine(5);
+        GumballMachine doubleQuarterGumballMachine = 
+        new doubleQuarterGumballMachine(5);
 
-        System.out.println(twoQuarterGumballMachine);
+        System.out.println(doubleQuarterGumballMachine);
 
-        twoQuarterGumballMachine.insertQuarter( 25 );
-        twoQuarterGumballMachine.turnCrank();
+        doubleQuarterGumballMachine.insertQuarter( 25 );
+        doubleQuarterGumballMachine.turnCrank();
 
-        System.out.println(twoQuarterGumballMachine);
+        System.out.println(doubleQuarterGumballMachine);
 
-        twoQuarterGumballMachine.insertQuarter( 25 );
-        twoQuarterGumballMachine.turnCrank();
-        twoQuarterGumballMachine.insertQuarter( 25 );
-        twoQuarterGumballMachine.turnCrank();
-        twoQuarterGumballMachine.insertQuarter( 10 );
-        twoQuarterGumballMachine.turnCrank();
-        twoQuarterGumballMachine.insertQuarter( 25 );
-        twoQuarterGumballMachine.turnCrank();
+        doubleQuarterGumballMachine.insertQuarter( 25 );
+        doubleQuarterGumballMachine.turnCrank();
+        doubleQuarterGumballMachine.insertQuarter( 25 );
+        doubleQuarterGumballMachine.turnCrank();
+        doubleQuarterGumballMachine.insertQuarter( 10 );
+        doubleQuarterGumballMachine.turnCrank();
+        doubleQuarterGumballMachine.insertQuarter( 25 );
+        doubleQuarterGumballMachine.turnCrank();
 
-        System.out.println(twoQuarterGumballMachine);
+        System.out.println(doubleQuarterGumballMachine);
         
-        twoQuarterGumballMachine.insertQuarter( 25 );
-        twoQuarterGumballMachine.turnCrank();
-        twoQuarterGumballMachine.insertQuarter( 25 );
-        twoQuarterGumballMachine.turnCrank();
+        doubleQuarterGumballMachine.insertQuarter( 25 );
+        doubleQuarterGumballMachine.turnCrank();
+        doubleQuarterGumballMachine.insertQuarter( 25 );
+        doubleQuarterGumballMachine.turnCrank();
         
-        System.out.println("\n-----Testing AllCoinsGumballMachine");
+        System.out.println("allCoinsGumballMachine Test");
         
         GumballMachine allCoinsGumballMachine = 
         new allCoinsGumballMachine(5);
