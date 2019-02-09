@@ -82,11 +82,4 @@ public class GumballMachine
     {
         System.out.println("Please collect your coin(s):" + balance_amount + "cents");
     }
-    
-    public String toString()
-    {
-        return String.format("Gumball machine has :" + this.num_gumballs 
-        + "gumballs. Cost of each gumball :" + min_amount 
-        + "cents. Amount inserted:" + balance_amount );
-    }
 }
