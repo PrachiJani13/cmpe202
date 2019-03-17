@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Burger
+comment1.params=d\ quantity
+comment1.target=Burger(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ setDetails()
+comment3.params=
+comment3.target=java.lang.String\ printPriceDescription()
+comment4.params=
+comment4.target=java.lang.String\ printDescription()
+comment5.params=
+comment5.target=double\ getPrice()
+comment5.text=\n\ Return\ burger\ price\n\ @return\ burger\ price\n
+numComments=6

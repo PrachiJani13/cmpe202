@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Toppings
+comment0.text=\n\ Burger\ components\ -\ Toppings\n\ \n\ @author\ Prachi\ Jani\n\ @version\ 1.0\n
+comment1.params=description\ place
+comment1.target=Toppings(java.lang.String,\ Placement)
+comment2.params=
+comment2.target=java.lang.String\ printDescription()
+comment2.text=\n\ Return\ component's\ contents\n\ @return\ component\ contents\n
+comment3.params=
+comment3.target=Placement\ getPlacement()
+comment3.text=\n\ Return\ component's\ placement\n\ @return\ component\ placment\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IReceiptStrategy
+comment0.text=\n\ Receipt\ strategy\n\n\ @author\ Prachi\ Jani\n\ @version\ 1.0\n
+comment1.params=order
+comment1.target=void\ printDescription(Order)
+comment1.text=\n\ Return\ receipt\ contents\n\ @Component\ to\ be\ printed\n\ @return\ receipt\ contents\n
+numComments=2

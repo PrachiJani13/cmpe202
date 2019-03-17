@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BillReceipt
+comment0.text=\n\ Packing\ Receipt\n\n\ @author\ Prachi\ Jani\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=BillReceipt()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PackingReceipt\n
+comment2.params=order
+comment2.target=void\ printDescription(Order)
+comment2.text=\n\ Return\ receipt\ contents\n\ @param\ Order\ to\ print\ packing\ receipt\ for\n\ @return\ receipt\ contents\n
+numComments=3
